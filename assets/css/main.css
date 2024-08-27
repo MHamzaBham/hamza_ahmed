@@ -3279,3 +3279,10 @@ ol {
 .portfolio .portfolio-content:hover img {
   transform: scale(1.1);
 }
+
+
+@media (min-width: 930px) {
+  .hero-section {
+    margin-top: -50px;
+  }
+}
