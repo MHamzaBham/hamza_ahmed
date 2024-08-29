@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 52.2 44.3" style="enable-background:new 0 0 52.2 44.3;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#3080E3;}
-	.st1{fill:#FCFBF9;}
-</style>
-<g>
-	<path class="st0" d="M4.4,6.2c0-3.1,2.7-5.8,5.8-5.8h31.9c3.1,0,5.8,2.7,5.8,5.8v31.9c0,3.1-2.7,5.8-5.8,5.8H10.1
-		c-3.1,0-5.8-2.7-5.8-5.8V6.2z"/>
-	<polygon class="st1" points="26.2,10.9 19.4,22.3 26.2,22.3 	"/>
-	<polygon class="st1" points="26.2,33.8 32.8,22.3 26.2,22.3 	"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" zoomAndPan="magnify" viewBox="0 0 375 374.999991" height="500" preserveAspectRatio="xMidYMid meet" version="1.0"><defs><clipPath id="1d10e05787"><path d="M 187.5 0 C 83.945312 0 0 83.945312 0 187.5 C 0 291.054688 83.945312 375 187.5 375 C 291.054688 375 375 291.054688 375 187.5 C 375 83.945312 291.054688 0 187.5 0 Z M 187.5 0 " clip-rule="nonzero"/></clipPath><clipPath id="23ecd0bed0"><path d="M 45.125 157 L 188 157 L 188 283 L 45.125 283 Z M 45.125 157 " clip-rule="nonzero"/></clipPath><clipPath id="a879d797d7"><path d="M 187 91.75 L 330 91.75 L 330 218 L 187 218 Z M 187 91.75 " clip-rule="nonzero"/></clipPath></defs><rect x="-37.5" width="450" fill="#ffffff" y="-37.499999" height="449.999989" fill-opacity="1"/><rect x="-37.5" width="450" fill="#293134" y="-37.499999" height="449.999989" fill-opacity="1"/><g clip-path="url(#1d10e05787)"><rect x="-37.5" width="450" fill="#f3f5f9" y="-37.499999" height="449.999989" fill-opacity="1"/></g><g clip-path="url(#23ecd0bed0)"><path fill="#293134" d="M 141.003906 246.558594 L 141.003906 263.890625 L 62.511719 227.425781 L 62.511719 213.363281 L 141.003906 176.898438 L 141.003906 194.234375 L 81.644531 220.230469 L 81.644531 220.558594 Z M 187.617188 157.636719 L 56.355469 157.636719 C 50.160156 157.636719 45.136719 162.660156 45.136719 168.859375 L 45.136719 271.929688 C 45.136719 278.125 50.160156 283.148438 56.355469 283.148438 L 151.179688 283.148438 L 187.617188 157.636719 " fill-opacity="1" fill-rule="nonzero"/></g><g clip-path="url(#a879d797d7)"><path fill="#0652e9" d="M 312.507812 162.097656 L 234.019531 198.070312 L 234.019531 180.734375 L 294.683594 154.738281 L 294.683594 154.410156 L 234.019531 128.410156 L 234.019531 111.078125 L 312.507812 147.050781 Z M 224.058594 91.816406 L 187.617188 217.328125 L 318.664062 217.328125 C 324.863281 217.328125 329.886719 212.304688 329.886719 206.105469 L 329.886719 103.039062 C 329.886719 96.839844 324.863281 91.816406 318.664062 91.816406 L 224.058594 91.816406 " fill-opacity="1" fill-rule="nonzero"/></g></svg>
